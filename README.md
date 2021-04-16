@@ -18,10 +18,10 @@ const Studies = {
 
 const Job = {
   tecnologies: {
-    frontEnd: ['React', 'Redux', 'IndexedDB', 'Dexie.js', 'Jquery', 'vanilla JS', 'HTML5', 'CSS3', 'Material-UI', 'leaflet.js']
+    frontEnd: ['React', 'Redux', 'IndexedDB', 'Dexie.js', 'Jquery', 'vanilla JS99', 'HTML5', 'CSS3', 'Material-UI', 'leaflet.js']
     backEnd: {
       development: {
-        web: ['JavaScript', 'Python', 'Node', 'Flask', 'bash', 'Express.js', 'GraphQL', 'REST', 'Cypress', 'Cypher'],
+        web: ['JavaScript', 'Python', 'Node', 'Flask', 'bash', 'Express.js', 'GraphQL', 'REST', 'Cypress', 'Cypher', 'NestJs'],
         codeVersioning: ['Git', 'GitHub', 'GitLab'],
         other: ['Docker','ArcGis API', 'MATLAB', 'Hardware Pogramming (C and Assembler)']
       } 
