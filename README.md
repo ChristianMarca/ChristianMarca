@@ -1,9 +1,12 @@
+# Hi, I'm Christian Marca
 
-# Hi, I'm Christian Marca :)
+**Systems Engineer | Critical Code Auditor**
 
 "I am an enthusiast of software engineering, and I flow with coding and software craft."
 
-I believe everything can be learned through practice. I’m an autodidact who enjoys exploring disciplines, ideas, and forms of creation — whether in software or through physical craft like carpentry. What matters to me is intention, clarity, and understanding. I build by thinking first, shaping second.
+I believe everything can be learned through practice. I’m an autodidact who enjoys exploring disciplines, ideas, and physical crafts like carpentry.
+
+What matters to me is intention, clarity, and understanding. I build by thinking first and shaping second.
 
 ---
 
@@ -11,25 +14,24 @@ I believe everything can be learned through practice. I’m an autodidact who en
 
 I treat software as a craft. Tools evolve, but principles endure.
 
-My approach is guided by the Law of Minimum Change: improve with the smallest meaningful adjustment, preserve the original intention, and keep systems coherent. I value code that is deliberate, simple, and expressive of the idea it carries.
+I use AI selectively and with intention. When I encounter AI‑generated code, I refine it — correcting, optimizing, and restoring coherence rather than rewriting for the sake of rewriting. AI assists, but it does not shape my judgment.
 
-AI appears in my workflow only when it makes sense. I refine AI‑generated code rather than depend on it — correcting, optimizing, and aligning it with human intention. AI assists, but it never replaces judgment.
+I prefer environments that let me think, not environments that try to think for me.  
 
-I prefer environments that let me think, not environments that try to think for me. Control, clarity, and ownership of the craft are central to how I work.
+Control, clarity, and ownership of the craft guide how I work.
 
 ---
 
 ## About Me
 
-Ecuadorian by identity and spirit.  
-Engineer by formation.  
-Craftsman by instinct.  
-Always learning, always building with purpose.
+🇪🇨 Ecuadorian by identity  
+🪚 Craftsman by instinct  
+🎓 Engineer by formation  
+Always learning, always building with purpose
 
 ---
 
 ## Contact
-
 <p align="left">
   <a href="mailto:cmarcag@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
