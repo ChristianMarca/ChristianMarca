@@ -1,23 +1,34 @@
-## 👋 Hi, I'm Christian Marca  
 
-> “I am an enthusiast of software engineering, and I flow with coding and software craft.”
+# Hi, I'm Christian Marca :)
 
-🎓 Degree in Electrical Engineering from [Universidad Politécnica Salesiana](https://www.ups.edu.ec/)  
+"I am an enthusiast of software engineering, and I flow with coding and software craft."
 
----
-
-### 🧠 About me  
-
-🇪🇨 Ecuadorian to the last fiber of my being — currently living in one of the smallest and prettiest places in the world.  
-
-One of my strongest beliefs is that everything can be learned through practice.  
-I consider myself an autodidact who enjoys exploring new technologies, languages, and creative disciplines.  
-
-🪚 Lately, I’ve been diving into **carpentry**, balancing physical craft with digital creation — software engineering remains my lifelong passion.  
+I believe everything can be learned through practice. I’m an autodidact who enjoys exploring disciplines, ideas, and forms of creation — whether in software or through physical craft like carpentry. What matters to me is intention, clarity, and understanding. I build by thinking first, shaping second.
 
 ---
 
-### 🌐 Connect with me  
+## Engineering Mindset
+
+I treat software as a craft. Tools evolve, but principles endure.
+
+My approach is guided by the Law of Minimum Change: improve with the smallest meaningful adjustment, preserve the original intention, and keep systems coherent. I value code that is deliberate, simple, and expressive of the idea it carries.
+
+AI appears in my workflow only when it makes sense. I refine AI‑generated code rather than depend on it — correcting, optimizing, and aligning it with human intention. AI assists, but it never replaces judgment.
+
+I prefer environments that let me think, not environments that try to think for me. Control, clarity, and ownership of the craft are central to how I work.
+
+---
+
+## About Me
+
+Ecuadorian by identity and spirit.  
+Engineer by formation.  
+Craftsman by instinct.  
+Always learning, always building with purpose.
+
+---
+
+## Contact
 
 <p align="left">
   <a href="mailto:cmarcag@gmail.com">
@@ -30,43 +41,3 @@ I consider myself an autodidact who enjoys exploring new technologies, languages
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
-### ⚙️ Software Engineering Mindset  
-
-> I see technology as a medium of expression — tools evolve, principles endure.  
-
-My focus is on **building reliable systems**, **clean architectures**, and **meaningful user experiences**.  
-Whether it’s cloud infrastructure, web performance, or creative coding, I enjoy connecting technical depth with design clarity.  
-
----
-
-### 🖤 A hint of code & craft  
-
-```rust
-fn optimize<T: AsRef<str>>(tasks: &[T]) -> Vec<String> {
-    tasks
-        .iter()
-        .map(|t| format!("{} ✅", t.as_ref()))
-        .collect()
-}
-
-fn main() {
-    let backlog = ["sleep", "code", "debug", "repeat"];
-    let done = optimize(&backlog);
-
-    println!("Life optimized: {:?}", done);
-}
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn test_life_is_stable() {
-        let tasks = ["eat", "code", "sleep"];
-        let result = optimize(&tasks);
-        assert!(result.contains(&"code ✅".to_string()), "💡 life failed to optimize 'code'");
-    }
-}
